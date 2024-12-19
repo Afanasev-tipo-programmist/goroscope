@@ -1,0 +1,11 @@
+C:\Users\Timofey\Desktop\Афанасьев работы\Гороскоп\bin\Debug\Гороскоп.exe.config
+C:\Users\Timofey\Desktop\Афанасьев работы\Гороскоп\bin\Debug\Гороскоп.exe
+C:\Users\Timofey\Desktop\Афанасьев работы\Гороскоп\bin\Debug\Гороскоп.pdb
+C:\Users\Timofey\Desktop\Афанасьев работы\Гороскоп\obj\Debug\Гороскоп.csproj.AssemblyReference.cache
+C:\Users\Timofey\Desktop\Афанасьев работы\Гороскоп\obj\Debug\Гороскоп.Form1.resources
+C:\Users\Timofey\Desktop\Афанасьев работы\Гороскоп\obj\Debug\Гороскоп.Properties.Resources.resources
+C:\Users\Timofey\Desktop\Афанасьев работы\Гороскоп\obj\Debug\Гороскоп.csproj.GenerateResource.cache
+C:\Users\Timofey\Desktop\Афанасьев работы\Гороскоп\obj\Debug\Гороскоп.csproj.CoreCompileInputs.cache
+C:\Users\Timofey\Desktop\Афанасьев работы\Гороскоп\obj\Debug\Гороскоп.exe
+C:\Users\Timofey\Desktop\Афанасьев работы\Гороскоп\obj\Debug\Гороскоп.pdb
+C:\Users\Timofey\Desktop\Афанасьев работы\Гороскоп\obj\Debug\Гороскоп.Results.resources
